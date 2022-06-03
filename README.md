@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub! 👋
+
+Hi! My name is Carmine Marchesani, I'm from Abruzzo, Italy and I study at [Unicam](www.unicam.it).
+I'm enrolled in [Computer Science](https://computerscience.unicam.it/), course [L-31](https://computerscience.unicam.it/laurea-informatica).
+Currently the programming language im learning is Java and C.
+I hope to become a professional systems and networks manager 💪
 
 <!--
 **x0nyx/x0nyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/VgGjzHN6X5aLRCCak6/200.webp"/>
+</div>
