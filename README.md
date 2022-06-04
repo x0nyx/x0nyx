@@ -2,7 +2,7 @@
 
 Hi! My name is Carmine Marchesani, I'm from Abruzzo, Italy and I study at [Unicam](www.unicam.it).
 I'm enrolled in [Computer Science](https://computerscience.unicam.it/), course [L-31](https://computerscience.unicam.it/laurea-informatica).
-Currently the programming language im learning is Java and C.
+Currently the programming languages im learning are Java and C.
 I hope to become a professional systems and networks manager 💪
 
 <!--
